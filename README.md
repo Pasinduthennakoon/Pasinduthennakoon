@@ -130,20 +130,18 @@
 <details open> 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats // Github Stats-->
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/apiusername=Pasinduthennakoon&show_icons=true&hide_border=true&title_color=58a6ff&bg_color=000000&text_color=58a6ff&icon_color=58a6ff&ring_color=58a6ff" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Pasinduthennakoon&show_icons=true&hide_border=true&title_color=58a6ff&bg_color=000000&text_color=58a6ff&icon_color=58a6ff&ring_color=58a6ff" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats // Streaks Stats -->
-    <img align="center" width="400" src="https://streak-stats.demolab.com/username=Pasinduthennakoon&theme=highcontrast&border=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=F58a6ff&card_height=205" />
+    <img align="center" width="400" src="https://streak-stats.demolab.com/?username=Pasinduthennakoon&theme=highcontrast&border=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=F58a6ff&card_height=205" />
     <br/><br/>
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
-<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Pasinduthennakoon&theme=highcontrast&hide_border=true&area=true&point=58a6ff&area_color=58a6ff&line=58a6ff" />
+<img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=Pasinduthennakoon&theme=high-contrast&hide_border=true&area=true&point=58a6ff&area_color=58a6ff&line=58a6ff" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/username=Pasinduthennakoon&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=58a6ff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduthennakoon&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=58a6ff" />
     <br/><br/>
     
 </p>
 </details>
-
-not update these ones
 
 
 
