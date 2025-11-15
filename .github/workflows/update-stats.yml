@@ -1,19 +1,18 @@
-name: Update GitHub Stats
+name: Update GitHub Stats & Activity
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:      # Allow manual trigger
+    - cron: '0 0 * * *'  # daily
+  workflow_dispatch:
 
 jobs:
-  generate-stats:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats
+      - name: Generate GitHub Stats SVG
         uses: anuraghazra/github-readme-stats@v0.2.0
         with:
           username: 'Pasinduthennakoon'
@@ -23,7 +22,7 @@ jobs:
           theme: 'dark'
           output: 'github-stats.svg'
 
-      - name: Generate Activity Graph
+      - name: Generate Activity Graph SVG
         uses: nicolasbeauvais/github-activity-graph@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -36,10 +35,10 @@ jobs:
           area_color: '58a6ff'
           hide_border: true
 
-      - name: Commit and push updated stats
+      - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add github-stats.svg activity-graph.svg
-          git commit -m "Update GitHub stats and activity graph" || echo "No changes to commit"
+          git commit -m "Update stats and activity graph" || echo "No changes"
           git push
