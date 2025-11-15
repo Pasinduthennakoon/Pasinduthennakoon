@@ -128,21 +128,30 @@
 <br>
 
 <details open>
+<summary><strong>📊 GitHub Stats & Activity</strong></summary>
+<br/>
+
 <p align="center">
 
 <!-- GitHub Stats -->
-  <img width="400" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/github-stats.svg" alt="GitHub Stats" />
+<img align="center" width="400" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/github-stats.svg" alt="GitHub Stats" />
 
-  <!-- Activity Graph -->
-  <img width="805" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/activity-graph.svg" alt="GitHub Activity Graph" />
+<!-- Streak Stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com/?username=Pasinduthennakoon&theme=highcontrast&border=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&card_height=205" />
 
 <br/><br/>
 
-<!-- Most Used Languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduthennakoon&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=58a6ff&cache_seconds=1800" />
+<!-- Activity Graph -->
+<img align="center" width="805" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/activity-graph.svg" alt="GitHub Activity Graph" />
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasinduthennakoon&layout=compact&bg_color=000000&text_color=FFFFFF&hide_border=true&card_width=805&title_color=58a6ff" />
 
 </p>
 </details>
+
 
 
 
