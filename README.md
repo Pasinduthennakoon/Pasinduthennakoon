@@ -130,15 +130,15 @@
 <details open>
 <p align="center">
 
-<!-- GitHub Stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Pasinduthennakoon&show_icons=true&hide_border=true&title_color=58a6ff&bg_color=000000&text_color=58a6ff&icon_color=58a6ff&ring_color=58a6ff&cache_seconds=1800" />
+<!-- GitHub Stats (auto-updated including private contributions) -->
+<img align="center" width="400" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/github-stats.svg" alt="GitHub Stats" />
 
 <!-- Streak Stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com/?username=Pasinduthennakoon&theme=highcontrast&border=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&card_height=205&cache_seconds=1800" />
+<img align="center" width="400" src="https://streak-stats.demolab.com/?username=Pasinduthennakoon&theme=highcontrast&border=000000&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&currStreakLabel=58a6ff&card_height=205" />
 
 <br/><br/>
 
-<!-- Activity Graph (auto-updated by GitHub Actions, includes private contributions) -->
+<!-- Activity Graph (auto-updated by GitHub Actions) -->
 <img width="805" src="https://raw.githubusercontent.com/Pasinduthennakoon/Pasinduthennakoon/main/activity-graph.svg" alt="GitHub Activity Graph" />
 
 <br/><br/>
@@ -148,5 +148,6 @@
 
 </p>
 </details>
+
 
 
