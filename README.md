@@ -54,6 +54,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=important"><br>
 <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white">
 </span>
 
 <h5>framwork</h5>
